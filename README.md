@@ -1,4 +1,12 @@
-## Hi there 👋
+> Hi, I'm crane. 👋
+
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=cr4n5&theme=nord&include_all_commits=true&show_icons=true&hide_border=true&bg_color=00000000" />
+
+- :cookie: Eat
+- :zzz: Sleep
+- :innocent: Happy
+- :school: A student from Hangzhou Dianzi University
+- :mailbox: Email: j1819609426@gmail.com
 
 <!--
 **cr4n5/cr4n5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
