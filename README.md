@@ -1,4 +1,4 @@
-<img align="right" width="500" src="https://github-readme-stats.vercel.app/api?username=cr4n5&theme=nord&include_all_commits=true&show_icons=true&hide_border=true&bg_color=00000000" />
+<img align="right" width="460" src="https://github-readme-stats.vercel.app/api?username=cr4n5&theme=nord&include_all_commits=true&show_icons=true&hide_border=true&bg_color=00000000" />
 
 > Hi, I'm crane. 👋
 - :cookie: Eat
