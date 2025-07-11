@@ -5,7 +5,7 @@
 - :zzz: Sleep
 - :innocent: Happy
 - :school: A student from Hangzhou Dianzi University
-- :mailbox: Email: j1819609426@gmail.com
+- :mailbox: Email: cr4n5@outlook.com
 
 <!--
 **cr4n5/cr4n5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
