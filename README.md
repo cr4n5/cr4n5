@@ -4,7 +4,7 @@
 - :cookie: Eat
 - :zzz: Sleep
 - :innocent: Happy
-- :school: A student from Hangzhou Dianzi University
+- :school: Hangzhou Dianzi University
 - :mailbox: Email: cr4n5@outlook.com
 
 <!--
